@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dimitrisadeniran
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning python
+- 👀 I’m a full stack web developer
+- 🌱 I’m python savvy
 - 💞️ I’m looking to collaborate on machine learning
 - 📫 How to reach me @adeniran.alade@icloud.com
 
